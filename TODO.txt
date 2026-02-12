@@ -45,4 +45,4 @@ functionality:
 
 ->** Allow switching between store pages (IDE Themes, Icons, Banners) (not bad)
 
--> 
+-> test
