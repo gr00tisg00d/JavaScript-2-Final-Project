@@ -1,0 +1,48 @@
+1.) Create a user profile modal. [Profile picture, username, level, rank, banner picture(background)]
+
+2.) User balance (Currency)
+    6.) Checkout payment options. [To buy currency]
+
+3.)** Cost per item. (object property)
+
+4.) Checkout page.
+    4a.) Edit quantity/remove item from cart on checkout page.
+
+5.)-- A cart (Objects stored into a cart array.)
+    5a.) Current number of items in cart above the checkout button
+    5b.) Add to cart functionality
+
+6.) Switch between the options of item types. (IDE Themes, Icons, Banners)
+
+
+
+
+
+
+
+NOW || Later:
+
+-> FIX cart updating quantity preview (During checkout quantity change affects badly.)
+
+-> API checkout options(Google/Paypal/Debit) should be on coin purchase rather than item purchase.
+
+-> Anchor shopping cart to bottom of header.
+
+
+4 Hours: what do I do. What can I do:
+
+-> Add more items to the shop (easy)
+
+-> Keep writing TODOs
+
+->* Create layouts for the other pages (not bad)
+
+-> Add more images for the different options
+
+        %%->* Fill the bottom of the store ? background gradient????????
+
+functionality:
+
+->** Allow switching between store pages (IDE Themes, Icons, Banners) (not bad)
+
+-> 
